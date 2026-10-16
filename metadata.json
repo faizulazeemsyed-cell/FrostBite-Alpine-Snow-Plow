@@ -1,0 +1,6 @@
+{
+  "name": "FrostBite: Alpine Snow Plow",
+  "description": "A cozy 3D isometric snow-plowing game with upgrades, dynamic snow physics, combo multipliers, and procedural synth audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
